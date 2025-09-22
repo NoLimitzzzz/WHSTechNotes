@@ -28,3 +28,7 @@ Types of Technology Used: The most frequently used technologies included social 
 
 How Technology Helped, Entertained, or Challenged Me: Social media served as a primary source of entertainment, allowing me to connect with friends and explore new trends. I enjoyed creating and sharing content, which sparked my creativity. Streaming services provided a much-needed escape, with binge-watching shows that inspired me with their storytelling and production quality.
 
+# September 22, 2025
+Evidence: The IKEA initiative on Roblox serves as a powerful example of this trend, where people are paid a real hourly wage of $16.10 to perform tasks like stocking shelves and assisting customers in a virtual store. This demonstrates a tangible bridge between the digital world of gaming and the traditional economy.
+
+Reasoning: This model is a good idea because it makes employment more accessible and flexible, particularly for individuals who may be limited by location or physical constraints. Moreover, the skills learned within these virtual roles—such as customer interaction and task management—are valuable and transferable to the real-world job market. Ultimately, this innovation creates new avenues for economic participation and skill development in an increasingly digital world.
